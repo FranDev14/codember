@@ -21,7 +21,7 @@ Here's why:
 
 | Challenge | Name                   | Solution                        | Worst Case - Best Case |
 |:---------:|:-----------------------|:-------------------------------:|:----------------------:|
-|    #01    | Spy encrypted messages |  [solution](./challenge_01)     |      -O(n) - O(1)-     |
+|    #01    | Spy encrypted messages |  [solution](./challenge_01)     |       O(n) - O(1)      |
 
 ## License
 
