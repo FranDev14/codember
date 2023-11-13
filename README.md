@@ -19,9 +19,9 @@ Here's why:
 
 ## Challenges
 
-| Challenge | Name                   |                                 |
-|:---------:|:-----------------------|:-------------------------------:|
-|    #01    | Spy encrypted messages | [solution](./challenge_01) |
+| Challenge | Name                   | Solution                        | Worst Case - Best Case |
+|:---------:|:-----------------------|:-------------------------------:|:----------------------:|
+|    #01    | Spy encrypted messages |  [solution](./challenge_01)    ||       O(n) - O(1)      |
 
 ## License
 
